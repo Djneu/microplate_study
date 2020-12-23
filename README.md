@@ -1,3 +1,8 @@
+This repository includes the ASPECT version used to run models in the study, "Formation of continental microplates through rift linkage: Numerical modelling and its application to the Flemish Cap and Sao Paulo Plateau." Models were run using dealii version, 9.1.1. Prm files for all runs are included in the prm_files folder.
+
+
+
+
 ASPECT - Advanced Solver for Problems in Earth's ConvecTion
 ===========================================================
 [![License GPL2:](https://img.shields.io/cran/l/devtools.svg)](https://github.com/geodynamics/aspect/blob/master/LICENSE)
