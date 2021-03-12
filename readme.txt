@@ -5,7 +5,7 @@ G-Cubed 2021
 
 
 Model runs in the study used dealii 9.1.1.
-The aspect version which includes additional plugins written by Anne Glerum can be found at: 
+The aspect version which includes additional plugins, written by Anne Glerum, for the LAB perturbation can be found at: 
 https://github.com/Djneu/aspect/tree/microplate_study
 
 
